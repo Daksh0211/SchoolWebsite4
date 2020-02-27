@@ -1,0 +1,30 @@
+h1 { 
+    font-variant: small; 
+}
+h1{
+    color: #ffffff
+      
+}
+
+
+.header{
+    background-color: rgb(29, 0, 134);
+    display : flex ; 
+    justify-content :space-between;
+  }
+
+  body{
+      background-color: #f450e2
+  }
+
+  .footer p{
+    opacity:0 ; 
+}
+
+  .footer:hover p{
+    opacity:1
+}
+
+  .footer:hover img{
+      opacity:0.2
+  }
